@@ -58,9 +58,8 @@ nav{
   width: 30px;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 68%;
+  top: 65%;
   left: 50%;
-  
 }
 
 .mobile-menu{
@@ -70,6 +69,7 @@ nav{
     padding: 30px 50px;
     position: absolute;
     top: 20%;
+    left: 10%;
     width: 80%;
     display: none;
 }
