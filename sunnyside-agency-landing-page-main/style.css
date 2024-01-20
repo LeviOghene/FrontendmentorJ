@@ -58,7 +58,7 @@ nav{
   width: 30px;
   position: absolute;
   transform: translate(-50%, -50%);
-  top: 70%;
+  top: 68%;
   left: 50%;
   
 }
@@ -70,7 +70,7 @@ nav{
     padding: 30px 50px;
     position: absolute;
     top: 20%;
-    width: 250px;
+    width: 360px;
     display: none;
 }
 
